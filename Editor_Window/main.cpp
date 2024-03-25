@@ -5,7 +5,7 @@
 #include "Editor_Window.h"
 
 #define MAX_LOADSTRING 100
-
+//git test
 // 전역 변수:
 HINSTANCE hInst;                                // 현재 인스턴스입니다.
 WCHAR szTitle[MAX_LOADSTRING];                  // 제목 표시줄 텍스트입니다.
